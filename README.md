@@ -1,4 +1,4 @@
-## Hi there 👋
+Building A Legacy of Consistent Excellence
 
 <!--
 **LegacyGlassOK/LegacyGlassOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
